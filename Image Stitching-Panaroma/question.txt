@@ -1,16 +1,6 @@
 Image Features and Homography
-1. Given two images mountain1.jpg and mountain2.jpg, extract SIFT features and draw the
-keypoints for both images. Include the resulting two images (task1 sift1.jpg, task1 sift2.jpg)
-in the report. (1pt)
-2. Match the keypoints using k-nearest neighbour (k=2), i.e., for a keypoint in the left image,
-nding the best 2 matches in the right image. Filter good matches satisfy m.distance <
-0.75 n.distance, where m is the rst match and n is the second match. Draw the match
-image using cv2.drawMatches for all matches (your match image should contain both inliers
-and outliers). Include the result image (task1 matches knn.jpg) in the report. (1pt)
-3. Compute the homography matrix H (with RANSAC) from the rst image to the second
-image. Include the matrix values in the report. (1pt)
-4. Draw the match image for around 10 random matches using only inliers. Include the result
-image (task1 matches.jpg) in the report. (1pt)
-5. Warp the rst image to the second image using H. The resulting image should contain all
-pixels in mountain1.jpg and mountain2.jpg. Include the result image (task1 pano.jpg) in
-the report. (1pt)
+1. Given two images mountain1.jpg and mountain2.jpg, extract SIFT features and draw the keypoints for both images.
+2. Match the keypoints using k-nearest neighbour (k=2), i.e., for a keypoint in the left image,finding the best 2 matches in the right image. Filter good matches satisfy m.distance < 0.75 n.distance, where m is the first match and n is the second match. Draw the match image using cv2.drawMatches for all matches (your match image should contain both inliers and outliers).
+3. Compute the homography matrix H (with RANSAC) from the first image to the second image.
+4. Draw the match image for around 10 random matches using only inliers.
+5. Warp the first image to the second image using H. The resulting image should contain all pixels in mountain1.jpg and mountain2.jpg.
