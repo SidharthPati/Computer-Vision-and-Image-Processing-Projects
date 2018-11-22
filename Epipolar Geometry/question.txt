@@ -1,2 +1,5 @@
 Epipolar Geometry
-1. Given two images tsucuba left.png and tsucuba right.png, do the same process for Task 1.1 and 1.2.2. Computer the fundamental matrix F (with RANSAC).3. Randomly select 10 inlier match pairs. For each keypoint in the left image, compute the epiline and draw on the right image. For each keypoint in the right image, compute the epiline and draw on the left image [Using different colors for different match pairs, but the same color for epilines on the left and right images with the same match pair.]4. Compute the disparity map for tsucuba left.png and tsucuba right.png.
+Given two images tsucuba left.png and tsucuba right.png, do the same process for Task 1.1 and 1.2.
+Computer the fundamental matrix F (with RANSAC).
+Randomly select 10 inlier match pairs. For each keypoint in the left image, compute the epiline and draw on the right image. For each keypoint in the right image, compute the epiline and draw on the left image [Using different colors for different match pairs, but the same color for epilines on the left and right images with the same match pair.]
+Compute the disparity map for tsucuba left.png and tsucuba right.png.
