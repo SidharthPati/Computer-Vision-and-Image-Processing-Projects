@@ -1,0 +1,2 @@
+Morphology image processing
+(a) Using two morphology image processing algorithms to remove noises of the image, save the results and name as ‘res_noise1.jpg’ and ‘res_noise2.jpg’.(b) Using morphology image processing algorithms to extract the boundary ‘res_noise1.jpg’ and ‘res_noise2.jpg’, save the results and name as ‘res_bound1.jpg’ and ‘res_bound2.jpg’.
