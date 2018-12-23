@@ -6,4 +6,5 @@
 <li>Image Stitching- Panaroma: Create a panaroma of two given images using OpenCV</li>
 <li>k-means Clustering: k-means clustering without OpenCV</li>
 <li>Morphology Image Processing: Denoising and Boundary Extraction using Morphology algorithms</li>
+<li>Hough Transformation: Detect lines and circles using Hough Transforms</li>
 </ul>
