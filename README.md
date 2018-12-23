@@ -5,4 +5,5 @@
 <li>Epipolar Geometry: Compute Epilines on a pair of images and compute the disparity map using OpenCV</li>
 <li>Image Stitching- Panaroma: Create a panaroma of two given images using OpenCV</li>
 <li>k-means Clustering: k-means clustering without OpenCV</li>
+<li>Morphology Image Processing: Denoising and Boundary Extraction using Morphology algorithms</li>
 </ul>
