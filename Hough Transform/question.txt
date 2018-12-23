@@ -1,0 +1,1 @@
+Hough transformYou are given an image ‘hough.jpg’(a) Using Hough transformation, design and implement an algorithm to detect all vertical (red lines), save the result image name as ‘red_line.jpg’.(b) Detect all the diagonal (blue lines), save the result image as ‘blue_lines.jpg’.(c) Detect all the coins in the image, save the result image as ‘coin.jpg'.
