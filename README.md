@@ -1,4 +1,4 @@
-# ComputerVisionAndImageProcessingProjects
+# Computer Vision And Image Processing Projects
 <ul>
 <li>Cursor Detection: Program to detect cursors in a given image using OpenCV</li>
 <li>Edge Detection: Program to detect edges in an image using Sobel Filter without using OpenCV</li>
